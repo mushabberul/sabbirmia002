@@ -15,7 +15,10 @@ I have been working for 3 years with WordPress. I have solid Knowledge: WordPres
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbirmia002)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbirmia/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabbirmia.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sabbirmia.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style='background=#fff' alt='github' height='40'>](https://github.com/sabbirmia002)  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbirmia/)  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabbirmia.bd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sabbirmia.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmia002)](https://github.com/anuraghazra/github-readme-stats)
 
