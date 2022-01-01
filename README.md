@@ -4,7 +4,13 @@
 
 I have been working for 3 years with WordPress. I have solid Knowledge: WordPress Theme & Plugin Development. I love to know about new things.
 
-Skills: WordPress Theme & Plugin Development / PHP / JavaScript / HTML / CSS
+Skills:
+ ✔ WordPress Theme Development
+ ✔ WordPress Plugin Development
+ ✔ PHP
+ ✔ JavaScript
+ ✔ HTML
+ ✔ CSS
 
 - 🔭 I’m currently working on Freelancing with peopleperhour 
 - 🌱 I’m currently learning JavaScript 
