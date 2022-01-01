@@ -12,8 +12,6 @@ Skills:<br>
  ✔ HTML<br>
  ✔ CSS<br>
 
-- 🔭 I’m currently working on Freelancing with peopleperhour 
-- 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
 
 
